@@ -35,7 +35,7 @@ module.exports = {
         ['transform-runtime', {
           'polyfill': true,
           'regenerator': true,
-        }]
+        }] 
       ],
     },
     /*
